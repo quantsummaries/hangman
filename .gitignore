@@ -1,0 +1,9 @@
+.idea/
+.ipynb_checkpoints/
+__pycache__/
+archived/
+train_data/
+train_dict_shuffled_samples/
+train_dict_unshuffled_samples/
+weights_qiqi/
+weights_yan/
